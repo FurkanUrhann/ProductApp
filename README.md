@@ -17,15 +17,24 @@ Bu projede, dummyjson'dan aldığım verileri kullanarak giriş yaptığım, yin
 ## Ekran Görüntüleri
 
 <div>
-  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/50eff767-c009-4b94-86f1-081a7906fbb9" alt="giris" width="250">
-  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/56c36be0-6779-4629-8792-6bd073dfa1e9" alt="Ürünlistesi" width="250">
-  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/11fda7fb-350a-4ae9-a369-0fc408b444ff" alt="aramabuton" width="250">
-  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/2bca63f3-f0c5-4245-af73-f4eb003854f7" alt="üründetay" width="250">
- </div>
+  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/df448fa0-0c38-4f56-a39c-153b5ff53aa1" alt="giris" width="250">
+  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/0537a509-41ff-49e3-b803-339b2fef75e0" alt="Ürünlistesi" width="250">
+  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/3ac311d7-0f0b-40d7-a484-7e622b2a70d4" alt="aramabuton" width="250">
+  <img src="https://github.com/FurkanUrhann/ProductApp/assets/130754219/8a3df8dc-2fdb-4c36-9961-af6401aaf52c" alt="üründetay" width="250">
+
+
+
+
+</div>
+ 
   
 
 
-https://github.com/FurkanUrhann/ProductApp/assets/130754219/cfa02e13-28b6-4b84-9982-4ace2ab7700c
+
+https://github.com/FurkanUrhann/ProductApp/assets/130754219/90067f1f-3a6b-4e60-86fe-c288e46bdf8a
+
+
+
 
 
   
